@@ -1,4 +1,5 @@
-# This code is available at https://github.com/randylewis/QuantumAnnealing/AQAE.py
+# This file is called called AQAE.py
+# It is available at https://github.com/randylewis/QuantumAnnealing
 # It uses D-Wave's Ocean Tools, available from https://github.com/dwavesystems/dwave-ocean-sdk
 #
 # This code can run in quantum annealing mode on D-Wave quantum hardware.
@@ -7,7 +8,7 @@
 # The adaptive quantum annealer eigensolver (AQAE) finds the ground state of a Hamiltonian matrix.
 # The AQEA was introduced in our paper: SU(2) gauge theory on a quantum annealer
 #                                       A Rahman, Lewis, Mendicelli and Powell
-#                                       arXiv:2103.????? [hep-lat] (2021).
+#                                       arXiv:2103.08661 [hep-lat] (2021)
 # The AQEA algorithm is quite general. See Appendix C of the paper for details.
 #
 # The particular Hamiltonian coded here is for SU(2) lattice gauge theory on a 6-plaquette lattice.
